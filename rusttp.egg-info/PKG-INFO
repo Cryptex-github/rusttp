@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: rusttp
+Version: 0.0.0
+Summary: Blazingly fast python HTTP module with Rust's reqwest
+Home-page: https://github.com/Cryptex-github/rusttp
+Author: Cryptex
+License: EUPL v1.2
+Project-URL: Issue tracker, https://github.com/Cryptex-github/rusttp/issues/new
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: License :: OSI Approved :: European Union Public Licence 1.2 (EUPL 1.2)
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Internet
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Utilities
+Requires-Python: >=3.8.0
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# rusttp
+A blazingly fast Python module for HTTP using Rust's reqwest
+
+
